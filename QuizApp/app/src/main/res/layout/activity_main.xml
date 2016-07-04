@@ -119,7 +119,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:hint="Answer format as choices above"
-            android:inputType="textCapWords" />
+            android:inputType="text" />
 
         <Button
             android:layout_width="wrap_content"

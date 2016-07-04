@@ -75,9 +75,7 @@ public class MainActivity extends AppCompatActivity {
         if (A2) {
             baseScore += 1;
         }
-        if (A3) {
-            baseScore += 1;
-        } else if (A3_4) {
+        if (A3 && A3_4) {
             baseScore += 1;
         }
         if (A4.equals("hypotenuse/adjacent")) {
